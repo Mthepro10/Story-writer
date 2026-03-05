@@ -18,4 +18,4 @@ This project was originally made for Flavortown, an event made and sponsored by 
 Project link inside event: https://flavortown.hackclub.com/projects/10051.
 
 ## License
-This project is prodected under the MIT license.
+This project is protected under the MIT license.
