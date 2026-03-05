@@ -11,6 +11,7 @@ Basic lessons of theory and code on Colab. (the "lessons" are made about generat
 1) https://pastebin.com/YU0p3cFt
 2) https://pastebin.com/LEHdKKWV
 3) https://pastebin.com/vs8KZyJd
+4) 
 
 # Credits
 This project was made by Mihai Draghici, Romanian Student. (aka Msking)
