@@ -18,7 +18,7 @@ TinyStories from HuggingFace was used.
 
 # Functionality 
 The AI does not function so well. but he can create very small sentences with meaning. The punctuation is kinda good with just some small mistakes.
-This is because the lack of training that I could hive to my AI.
+This is because the lack of training that I could have to my AI. My computer isn't so strong so I couldn't train it a lot with better learning rates.q
 
 # Credits
 This project was made by Mihai Draghici, Romanian Student. (aka Msking)
