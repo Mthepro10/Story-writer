@@ -32,7 +32,7 @@ Project link inside event: https://flavortown.hackclub.com/projects/10051.
 This project is protected under the MIT license.
 
 # Link to colab
-https://colab.research.google.com/drive/1La4ErcvEf8rKYB7EbzVoGzydhNXB9QkI?usp=sharing
+https://colab.research.google.com/drive/1I0uFsvkzwroX5XWFSprGFO2M8kphSq4o
 
 # website to try it
 https://huggingface.co/spaces/Mthepro10/Story-Writer
