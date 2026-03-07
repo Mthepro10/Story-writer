@@ -20,8 +20,8 @@ Basic lessons of theory and code on Colab. (the "lessons" are made about generat
 TinyStories from HuggingFace was used.
 
 # Functionality 
-The AI does not function so well. but he can create very small sentences with meaning. The punctuation is kinda good with just some small mistakes.
-This is because the lack of training that I could have to my AI. My computer isn't so strong so I couldn't train it a lot with better learning rates.
+The AI does not function so well. but he can create sentences with meaning. The punctuation is kinda good with just some small mistakes.
+This is because the lack of training that I could have to my AI. My computer isn't so strong so I couldn't train it a lot with better learning rates and also I have Colab free tier.
 
 # Credits
 This project was made by Mihai Draghici, Romanian Student. (aka Msking)
