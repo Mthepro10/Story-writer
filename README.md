@@ -1,6 +1,9 @@
 # Story-writer
 
-This will be an AI story-writer, given a sentence he will compose a short story. Maybe he is not so accurate, but I am proud of me cause the sentence have a meaning😁😎😎🎉!!!
+This will be an AI story-writer, given a sentence he will compose a short story. Maybe he is not so accurate, but I am proud of me cause the sentences have a meaning😁😎😎🎉!!!
+
+
+You can now try my AI V1.0.0 on a real website. Look at "website to try it". Give him a sentence without period and he will generate a little story. 
 
 
 # Reasons
@@ -32,4 +35,4 @@ This project is protected under the MIT license.
 https://colab.research.google.com/drive/1La4ErcvEf8rKYB7EbzVoGzydhNXB9QkI?usp=sharing
 
 # website to try it
-COMING SOON!
+https://huggingface.co/spaces/Mthepro10/Story-Writer
