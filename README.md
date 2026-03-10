@@ -20,7 +20,7 @@ Basic lessons of theory and code on Colab. (the "lessons" are made about generat
 TinyStories from HuggingFace was used.
 
 # Functionality 
-The AI does not function so well. but he can create sentences with meaning. The punctuation is kinda good with just some small mistakes.
+The AI does not function so well, but he can create sentences with meaning. The punctuation is kinda good with just some small mistakes.
 This is because the lack of training that I could have to my AI. My computer isn't so strong so I couldn't train it a lot with better learning rates and also I have Colab free tier.
 
 # Credits
@@ -28,7 +28,7 @@ This project was made by Mihai Draghici, Romanian Student. (aka Msking)
 This project was originally made for Flavortown, an event made and sponsored by The Hack Foundation(d.b.a Hack Club).
 Project link inside event: https://flavortown.hackclub.com/projects/10051.
 
-## License
+# License
 This project is protected under the MIT license.
 
 # Link to colab
@@ -36,3 +36,6 @@ https://colab.research.google.com/drive/1I0uFsvkzwroX5XWFSprGFO2M8kphSq4o
 
 # website to try it
 https://huggingface.co/spaces/Mthepro10/Story-Writer
+
+#App
+in releases
