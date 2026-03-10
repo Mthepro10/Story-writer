@@ -37,5 +37,5 @@ https://colab.research.google.com/drive/1I0uFsvkzwroX5XWFSprGFO2M8kphSq4o
 # website to try it
 https://huggingface.co/spaces/Mthepro10/Story-Writer
 
-#App
+# App
 in releases
