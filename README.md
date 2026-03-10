@@ -3,7 +3,7 @@
 This will be an AI story-writer, given a sentence he will compose a short story. Maybe he is not so accurate, but I am proud of me cause the sentences have a meaning😁😎😎🎉!!!
 
 
-You can now try my AI V1.0.0 on a real website. Look at "website to try it". Give him a sentence without period and he will generate a little story. 
+You can now try my AI V1.0.0 on a real website. Look at "website to try it". Give him a sentence without period and he will generate a little story. Also look at releases for portable app.
 
 
 # Reasons
