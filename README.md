@@ -1,5 +1,8 @@
 # Story-writer
 
+!!!!!V1.0.0 Can not create stories. Just sentences that meaning are connected to your given sentence. They will bw written continuously!!!!!
+
+
 This will be an AI story-writer, given a sentence he will compose a short story. Maybe he is not so accurate, but I am proud of me cause the sentences have a meaning😁😎😎🎉!!!
 
 
